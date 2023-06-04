@@ -31,6 +31,7 @@ https://pegalearnings.blogspot.com/2019/08/index-in-pega-append-current-insert.h
 
 https://docs-previous.pega.com/sites/default/files/help_v73/designer%20studio/expressionbuilder/ref_refaggregateprop_symbolic.htm
 
+https://docs-previous.pega.com/application-development/85/repeating-steps-activity
 
 
 Paid Pega Blog
