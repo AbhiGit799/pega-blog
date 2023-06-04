@@ -29,6 +29,9 @@ https://welearnpega.blogspot.com/2020/08/pagelist-functions-in-pega.html
 https://pegalearnings.blogspot.com/2019/08/index-in-pega-append-current-insert.html
 
 
+https://docs-previous.pega.com/sites/default/files/help_v73/designer%20studio/expressionbuilder/ref_refaggregateprop_symbolic.htm
+
+
 
 Paid Pega Blog
 ==============
